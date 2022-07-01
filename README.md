@@ -15,7 +15,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 
 ```
 git clone https://github.com/karthikraj15/Yelpcamp.git
-cd yelpcamp
+cd YelpCamp
 npm install
 ```
 
