@@ -22,7 +22,7 @@ npm install
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:  
 
 ```
-API_KEY=''<key>
+API_KEY='<key>'
 API_SECRET='<secret>'
 ```
 
